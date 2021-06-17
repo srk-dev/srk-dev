@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srk-dev
-- 👀 I’m interested in writing blogs
+- 👀 I’m interested in writing blogs (srk.hashnode.dev)
 - 📫 Reach me on @thefakesrk (Instagram) or srktechlk@gmail.com (Email)
 
 <!---
