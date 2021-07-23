@@ -6,7 +6,7 @@
  
 - 👨‍💻 Interested in Cyber Security & Artifical Intelligence 
 
-- 📝 I regularly write blogs on <a href="https://srk.hashnode.dev"> srk.hashnode.dev </a> (Paused / Not Started)
+- 📝 I write blogs on <a href="https://blog.thefakesrk.tech"> my website </a> (Paused / Not Started)
 
 - 📫 Reach Me out on <a href="mailto:srktechlk@gmail.com"> **srktechlk@gmail.com** </a> and <a href="https://discord.com/users/744212203682398278"> Discord </a>
 
