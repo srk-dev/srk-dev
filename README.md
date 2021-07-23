@@ -28,6 +28,9 @@
 
 
  ![Profile views](https://gpvc.arturio.dev/srk-dev)
+ [![Twitter: SRK](https://img.shields.io/twitter/follow/srktec?style=social)](https://twitter.com/srktec)
+[![GitHub: SRK](https://img.shields.io/github/followers/srk-dev?label=follow&style=social)](https://github.com/srk-dev)
+
 
 <!---
 srk-dev/srk-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
