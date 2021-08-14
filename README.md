@@ -6,10 +6,20 @@
  
 - 👨‍💻 Interested in Cyber Security & Artifical Intelligence 
 
-- 📝 I write blogs on <a href="https://blog.thefakesrk.tech"> my website </a> (Paused / Not Started)
+- 📝 I occasionally write blogs on <a href="https://blog.thefakesrk.tech"> my website </a>
 
 - 📫 Reach Me out on <a href="mailto:srktechlk@gmail.com"> **srktechlk@gmail.com** </a> and <a href="https://discord.com/users/744212203682398278"> Discord </a>
 
+
+<details open>
+<summary>Recent Blog Posts</summary>
+
++ Hashnode
+    + [Windows 365, is it actually worth it?](https://blog.thefakesrk.tech/windows-365)
++ Dev.to
+    + [Windows 365, is it actually worth it?](https://dev.to/srk/windows-365-is-it-actually-worth-it-1o36)
+
+</details>
 
 
 <h3 align="left">Connect with me:</h3>
